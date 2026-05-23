@@ -1,0 +1,8 @@
+<svg width="256" height="80" viewBox="0 0 256 80" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">NTEC</title>
+  <desc id="desc">Logotipo NTEC em branco com indicador de status verde.</desc>
+  <rect x="0.5" y="0.5" width="255" height="79" rx="4.5" fill="#0E1411" stroke="#283330"/>
+  <text x="23" y="54" fill="#F4F6F4" font-family="Space Grotesk, Arial, Helvetica, sans-serif" font-size="45" font-weight="700" letter-spacing="-3">NTEC</text>
+  <rect x="212" y="22" width="14" height="14" fill="#00C389"/>
+  <path d="M211.5 54.5H232.5" stroke="#283330"/>
+</svg>
